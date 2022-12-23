@@ -7,8 +7,8 @@ using SQLite_jll
 using OpenMPI_jll
 using MPIPreferences
 JLLWrappers.@generate_wrapper_header("CryptoMiniSat")
-JLLWrappers.@declare_library_product(libcryptominisat5, "libcryptominisat5.so.5.8")
-JLLWrappers.@declare_library_product(libipasircryptominisat5, "libipasircryptominisat5.so.5.8")
+JLLWrappers.@declare_library_product(libcryptominisat5, "libcryptominisat5.so.5.11")
+JLLWrappers.@declare_library_product(libipasircryptominisat5, "libipasircryptominisat5.so.5.11")
 JLLWrappers.@declare_executable_product(cryptominisat5)
 JLLWrappers.@declare_executable_product(cryptominisat5_simple)
 function __init__()
