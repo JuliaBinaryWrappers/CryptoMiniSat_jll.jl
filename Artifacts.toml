@@ -1,790 +1,882 @@
 [[CryptoMiniSat]]
 arch = "aarch64"
-git-tree-sha1 = "1d37d9420fed00bfe49a676945f7baf20d7c33b5"
+git-tree-sha1 = "2e3d37d29ead8195f384bdc39369d1506d140cef"
 lazy = true
 mpi = "mpich"
 os = "macos"
 
     [[CryptoMiniSat.download]]
-    sha256 = "ba0723fdd5fa725db91c5145d2469a0b94b3da23cfa391bc33661996cf7b9c9b"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.aarch64-apple-darwin-mpi+mpich.tar.gz"
+    sha256 = "4eacc6a9d323bf4e3c3d5a8a115ef3c7b078e05800d3711a19383233a908b880"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.aarch64-apple-darwin-mpi+mpich.tar.gz"
 [[CryptoMiniSat]]
 arch = "aarch64"
-git-tree-sha1 = "495c4c328d87bde3f6a72eeed36c81f935005587"
+git-tree-sha1 = "893f4a763f85c33fb77c9f75a567a9202faa84d0"
 lazy = true
 mpi = "mpitrampoline"
 os = "macos"
 
     [[CryptoMiniSat.download]]
-    sha256 = "1fe49f796ead410512b5a654d7dd42f28f3ff7c1d70c40fd1060a5275099fa90"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    sha256 = "2193d303cbb9d4ffce09b0833ec3e1ceeab1d00e3cb8fbfbe1c42273dee1e7b8"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[CryptoMiniSat]]
 arch = "aarch64"
-git-tree-sha1 = "e592b0d49969d73a6670245133d5989fe112455d"
+git-tree-sha1 = "a68fd11f3b56d4ec3ef0219b75f2bc869b27959b"
 lazy = true
 mpi = "openmpi"
 os = "macos"
 
     [[CryptoMiniSat.download]]
-    sha256 = "b61c7ab3b330a025ea5fe93e9e0d54c77c11bc1f065b3ce8a42e6c3b77fe6a41"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.aarch64-apple-darwin-mpi+openmpi.tar.gz"
+    sha256 = "881640261b05cad8d5dbabbeec71908b2835938757a1356be5fa4739737a68ca"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.aarch64-apple-darwin-mpi+openmpi.tar.gz"
 [[CryptoMiniSat]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "815f9b66f02620af62760c42bdd85694fa1da3d9"
+git-tree-sha1 = "17ad2c1eb0a4a09b89eb01106b0077084a82cddb"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[CryptoMiniSat.download]]
-    sha256 = "278d3b5ab5aa2a23b396a78d4e58f512613fbb8a58d9bf685555038fa513b9c7"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.aarch64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+    sha256 = "60867981c2251a08e0e2fa60c1ad9d7450d7b04a9d0e3be4c6ff7873e636ff20"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.aarch64-linux-gnu-cxx03-mpi+mpich.tar.gz"
 [[CryptoMiniSat]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "587f6b0fbf2fccdec52957b1d9d11d6c2eda7d7f"
+git-tree-sha1 = "6698ac7d46f721592318d006e01288e11b3ed945"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[CryptoMiniSat.download]]
-    sha256 = "91eff31249c432b34a70b10c2fd1b337e38c529dde1293aabc090a969934d726"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.aarch64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "c2647f863176eea8301503b86f17f4591c69c90018add410e640fb2cf5639ca3"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.aarch64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
 [[CryptoMiniSat]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "47f01416ca068fef805d60d8c5976c131147f16c"
+git-tree-sha1 = "e66680ce05137d61addcb9cf4de06842e866184e"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[CryptoMiniSat.download]]
-    sha256 = "854b0eba37ace800af4786648e8d57ef92dbd467ff4dfe219b026d86f94a7fd9"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.aarch64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "d655833e485a57aad186f7fa00e825bde8c3b11369c13418e3807311e0df2398"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.aarch64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
 [[CryptoMiniSat]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2d9d83a526efc6bf15da9cc99cd2d2ecbc2d43b5"
+git-tree-sha1 = "c7572b7d188ea1b8e0cd59d6f04ea20c72898ae7"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[CryptoMiniSat.download]]
-    sha256 = "bc957baf1c057cafb634085d781922f4fa17c4d73dc3945acc91d00f418776ca"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.aarch64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    sha256 = "3ef017019d55c3d9d44de7101800e4d870ed127bc2716bf3850a1d2b0078d1cc"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.aarch64-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[CryptoMiniSat]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f336aa64edceeb14e3273d2ae32129d1d2afedcc"
+git-tree-sha1 = "287fa01a19d95bce8bbd9fa782037e7862698b03"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[CryptoMiniSat.download]]
-    sha256 = "d5215b61ac08c6888f88f847c57fa99bf604b487762950e6cda8d6d7da5d32ea"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.aarch64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "1486f05f8d258a25d4eaa1458e73aae0d6029da802e6b06abc95b01cc45932bc"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.aarch64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[CryptoMiniSat]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4afd717f5026cd26cb43dabfb10187e666da5b1b"
+git-tree-sha1 = "5e67635afc76156b83d093c8d7ad537dca726478"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[CryptoMiniSat.download]]
-    sha256 = "e184cc93ac9592955253691b3a22338f57cd5aa9897dd765d15132f19d192372"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.aarch64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "f610c093c99122166b97ba6f20530fc9b336688878f74dbf3eb85429e0d214bb"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.aarch64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
 [[CryptoMiniSat]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c48c5af451451114b6d51f88d18bec81c6b16ed8"
+git-tree-sha1 = "2aef066e9236c0204b34c93e856c4ae2483476d7"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[CryptoMiniSat.download]]
-    sha256 = "87b6450eafc2b2d23afcf6c07d62bcf4be57d0bd7cfad646c248dc1785644a10"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.aarch64-linux-musl-cxx03-mpi+mpich.tar.gz"
+    sha256 = "8da1bdce2bf2bf5d4096d4d520750a4b58d4155553584a8d026ceea7dc8a76fe"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.aarch64-linux-musl-cxx03-mpi+mpich.tar.gz"
 [[CryptoMiniSat]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "769e5ac28245bef0269ab228e33ac277aff7349e"
+git-tree-sha1 = "8be29c744944b58e5567fc659fe0ad47f5989a33"
 lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[CryptoMiniSat.download]]
-    sha256 = "1ca1fae353b127c305ba864da7f82f98e2737b7bb382ff72bbe71df004803b39"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.aarch64-linux-musl-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "53ff10b2297a252030ee48d80a010a1fc9b3c65ebb163b795261afac75d427b9"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.aarch64-linux-musl-cxx03-mpi+openmpi.tar.gz"
 [[CryptoMiniSat]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "656ea85546699bd8de3d5f987d428725b3028458"
+git-tree-sha1 = "4bcebe43aeee8a7e308ac45dd1a4a492b60dfa5e"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[CryptoMiniSat.download]]
-    sha256 = "a21ae02ee5c4ab67b808ff4a4f21d43c82495e98459b484f0f576f6456d251f9"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.aarch64-linux-musl-cxx11-mpi+mpich.tar.gz"
+    sha256 = "677fb6ba275f23db366e710779696d027aaabf74b40ec678a88c76d33daf7df6"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.aarch64-linux-musl-cxx11-mpi+mpich.tar.gz"
 [[CryptoMiniSat]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0e0db535965cb7398ce236e3dea948bb11af77cc"
+git-tree-sha1 = "61f1836aac239ef0ae089a3777b82b0e64694092"
 lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[CryptoMiniSat.download]]
-    sha256 = "ee3757f466ea89236c779c75ec8893ce615152425cf5d217db8caf046350fbf7"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.aarch64-linux-musl-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "59459f936e247d6b40e468f36e652933f83fbc539a1f8415402008b640738679"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.aarch64-linux-musl-cxx11-mpi+openmpi.tar.gz"
 [[CryptoMiniSat]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "af74e75135bca6ae1c2a6a999a3eebefae9e2708"
-lazy = true
-libc = "glibc"
-mpi = "mpich"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "a0f11fe6a900305a595bd62e7c1b10e0a02f09e939d4f626c15d5c42cc7b26f3"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.armv6l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
-[[CryptoMiniSat]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "46149b21a50ab37a29cd4b000395a77887637462"
-lazy = true
-libc = "glibc"
-mpi = "mpitrampoline"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "ac8b7046096e5d72623c41c2b6c47fe96fde4ca9cca3e9e1b34bcf8b783df987"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.armv6l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
-[[CryptoMiniSat]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "158deada44ee2dcfb98deb71a5d8b5e2b6895fc5"
-lazy = true
-libc = "glibc"
-mpi = "mpich"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "775359c350aa4bdd1ebeb77a8b0c88c55807c84443495921d058133fe35a8037"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.armv6l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
-[[CryptoMiniSat]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "0266f04fd5d672c33c96dbad6781f3b6ec09b32b"
-lazy = true
-libc = "glibc"
-mpi = "mpitrampoline"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "e17c0a42c99159a9944b553fbbc1d6f02a7b43b76ea111140b9f9fc775299939"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.armv6l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
-[[CryptoMiniSat]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "293b9a2d3f62dbd0663d6c9d3a50e767382ce5f7"
-lazy = true
-libc = "musl"
-mpi = "mpich"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "0d5fd0bd6610f1a966f784c3314c06a1a427a1b28ffeb96210c5c097e6ad9009"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.armv6l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
-[[CryptoMiniSat]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "4b45303711981269828952cbe817835acf58c0bc"
-lazy = true
-libc = "musl"
-mpi = "openmpi"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "75832caf716d6d4b117c373ea2046f8d8e6c179ae7d043a938e832f5a88341da"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.armv6l-linux-musleabihf-cxx03-mpi+openmpi.tar.gz"
-[[CryptoMiniSat]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "1175ece0213b738dfe5f72436947cf2d37b7bf47"
-lazy = true
-libc = "musl"
-mpi = "mpich"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "636d40274d8c1e1b23c404a1a8f7d373029c978dfea67563bc6014129ca4d831"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.armv6l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
-[[CryptoMiniSat]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "426a11a0cfc51e902de3f586aa2522c4aa2194cc"
-lazy = true
-libc = "musl"
-mpi = "openmpi"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "8191098368e005795c99a2ec86f21696189fda0374ed1a8ac6c31c29a13dbf4b"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.armv6l-linux-musleabihf-cxx11-mpi+openmpi.tar.gz"
-[[CryptoMiniSat]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "1c3d926f21ad2d606f71c7c0c1f9b806e21b4ccf"
-lazy = true
-libc = "glibc"
-mpi = "mpich"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "ef6249958eaf3ee7ed3bd4138778da9b790e9d071e7f3e671bad93b6768ad4e0"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.armv7l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
-[[CryptoMiniSat]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "73f4dbe9a435a31174a489efebf9a6c69670ada4"
-lazy = true
-libc = "glibc"
-mpi = "mpitrampoline"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "35fefc85f3eb77e98b6db923f2042ca9caaf6485ae9ece0ebe426e334e6eea78"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.armv7l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
-[[CryptoMiniSat]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "2700c155ab8852978b480cfaf2bde5385406a611"
-lazy = true
-libc = "glibc"
-mpi = "openmpi"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "31873130f0a152e06d304b65f910f98ae49a6cb3eaee33a9e91d25705eec741d"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.armv7l-linux-gnueabihf-cxx03-mpi+openmpi.tar.gz"
-[[CryptoMiniSat]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e6fa32dc67af35887bcb466936e7a2328a4359a6"
-lazy = true
-libc = "glibc"
-mpi = "mpich"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "8cd2626fa1c54f8ca8aa53f409ad1a79c3e55b7730051bdc29305ba05927e1b1"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.armv7l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
-[[CryptoMiniSat]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "bdf75950aeec46d8618b40d15af9a143ede54b1c"
-lazy = true
-libc = "glibc"
-mpi = "mpitrampoline"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "988742fcd67af9462e3daf202b5866d28b3f680424d96f241cef024eb07e054c"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.armv7l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
-[[CryptoMiniSat]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "082855588ea52ae28bef96363bc904b4a464d89e"
-lazy = true
-libc = "glibc"
-mpi = "openmpi"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "eb229d2af56b2026d43ae5f1b609267a723459a3fe8c79f0861ffc45f0f71474"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.armv7l-linux-gnueabihf-cxx11-mpi+openmpi.tar.gz"
-[[CryptoMiniSat]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "1d4e84de6c8196d70a134480a1127f794b74f067"
-lazy = true
-libc = "musl"
-mpi = "mpich"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "1ced96730848f79858f003ec8e1083c7c34ab9106b290feb1609049e2db8a2ec"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.armv7l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
-[[CryptoMiniSat]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "d0c0b0f73a6cbf33f008bb69c1cb2d3a82290dc6"
-lazy = true
-libc = "musl"
-mpi = "openmpi"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "d5a17612bcb1d6f4965089277b2ce515e68593e8c347bca86643d1f26fd7314c"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.armv7l-linux-musleabihf-cxx03-mpi+openmpi.tar.gz"
-[[CryptoMiniSat]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d833708356394ccc33ff2978d85f54eaeed91ecc"
-lazy = true
-libc = "musl"
-mpi = "mpich"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "b3ef0556e9dba5b2c5bbdbde272a6cab8750c204dfec88a78ac31cb74aa6e0cd"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.armv7l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
-[[CryptoMiniSat]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "4980750d15ebfd5c78f473bc534275cc775448c6"
-lazy = true
-libc = "musl"
-mpi = "openmpi"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "c2cc9e9185c72b25ff2c4ebcd04df1c7a01be98fe0b8e382c1ca7282aff3fa71"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.armv7l-linux-musleabihf-cxx11-mpi+openmpi.tar.gz"
-[[CryptoMiniSat]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "984c34d7aaa7ecb8ebd62464a7c2251abb2b2708"
-lazy = true
-libc = "glibc"
-mpi = "mpich"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "f7b16beae203474d920134637155d8d91869c05407575ed83a21bb151ae037cd"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.i686-linux-gnu-cxx03-mpi+mpich.tar.gz"
-[[CryptoMiniSat]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "373df447fe6692e5a422df5b382652a028c96fed"
-lazy = true
-libc = "glibc"
-mpi = "mpitrampoline"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "9ffc3920d00251ebcdff8de91fd9a12a35a872c81945798fbd6544194b40ab22"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.i686-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
-[[CryptoMiniSat]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "28a43c338082d261d66e48d611660305bc0176ae"
-lazy = true
-libc = "glibc"
-mpi = "openmpi"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "0a4975c8f2628933ec1501e5a703f98d6eec509da5ead1f60b67a3ac00279e05"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.i686-linux-gnu-cxx03-mpi+openmpi.tar.gz"
-[[CryptoMiniSat]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "22ae3f9f0460ebe9969a71b1695da287643019a2"
-lazy = true
-libc = "glibc"
-mpi = "mpich"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "ff57d9ceadbe7ba926e9333f9ddfc4bfd4a832579cf7d8af3470ca3aa5f6b32c"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.i686-linux-gnu-cxx11-mpi+mpich.tar.gz"
-[[CryptoMiniSat]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "a2884ff6cbd345a5323aaf4345fbf23a2c376077"
-lazy = true
-libc = "glibc"
-mpi = "mpitrampoline"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "4af5d91ce8c70d61d16b79fa19f96c884a67de7264e74fd2504a87e3b8294d08"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.i686-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
-[[CryptoMiniSat]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "3920aafee956ecd4aeaba8fd4310d05b85f44004"
-lazy = true
-libc = "glibc"
-mpi = "openmpi"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "0a4c8869a22e6fbd0602fc87801e2f626a97c5bffe426dcc3068f478d9385c62"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.i686-linux-gnu-cxx11-mpi+openmpi.tar.gz"
-[[CryptoMiniSat]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "d939df6aaba1a79bb274de28d151134f189473ec"
-lazy = true
-libc = "musl"
-mpi = "mpich"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "15e13af0470ee9b9c584e4298fcd8ce75e406359ccc979d4687ef4b9ae3cc6bc"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.i686-linux-musl-cxx03-mpi+mpich.tar.gz"
-[[CryptoMiniSat]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "26c5d2c0ee01c81ab15a64a56039a1310bf3c2a8"
-lazy = true
-libc = "musl"
-mpi = "openmpi"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "f4c73f2f30df22c5f99eaf5298fdb39cd4a68c498022a50e180d3909580f8b15"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.i686-linux-musl-cxx03-mpi+openmpi.tar.gz"
-[[CryptoMiniSat]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "4336e0b84dfc6b86b0a6e985ee6e5fde7efaffd3"
-lazy = true
-libc = "musl"
-mpi = "mpich"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "2faa2fed4863bfebb13cd0908463115d00bacae65a98018cd66e94aafd36c234"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.i686-linux-musl-cxx11-mpi+mpich.tar.gz"
-[[CryptoMiniSat]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d6db931418a19398c8e8e4f26607e94eb85f05db"
-lazy = true
-libc = "musl"
-mpi = "openmpi"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "0c5c69f05b7c4ef946555a05124d2934b726801a5e46a636560e34a4e65d5a60"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.i686-linux-musl-cxx11-mpi+openmpi.tar.gz"
-[[CryptoMiniSat]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "553d9e0f045548d1ae249be2d98a852e24a20d8b"
-lazy = true
-mpi = "microsoftmpi"
-os = "windows"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "ff1a7e84a327de81f289627217530c7296311a1b65535c5765830e41188e862d"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.i686-w64-mingw32-cxx03-mpi+microsoftmpi.tar.gz"
-[[CryptoMiniSat]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "16494eebe2df080e3cd0f4403e3cac47bb444191"
-lazy = true
-mpi = "microsoftmpi"
-os = "windows"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "ea370152f8e080927cf1cf169c8b570cd038d801c68ffe8cb09df9be131f23c8"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.i686-w64-mingw32-cxx11-mpi+microsoftmpi.tar.gz"
-[[CryptoMiniSat]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "a12fae6613c1949ed8ea9653caac40626e91fa51"
-lazy = true
-libc = "glibc"
-mpi = "mpich"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "889c6959aca3d0e6e0a3d5ded3c153e360a220956670f96196d7b3d8a56004de"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.powerpc64le-linux-gnu-cxx03-mpi+mpich.tar.gz"
-[[CryptoMiniSat]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "30222a820e73a6134980814ee265097804ddaed0"
-lazy = true
-libc = "glibc"
-mpi = "mpitrampoline"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "bd3a51bb4f1222d1f673351669c39057b21d284b662355a486543fd6192cbcf8"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.powerpc64le-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
-[[CryptoMiniSat]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "62faf097106b9af34c528d543f69ea4806ea1cf2"
-lazy = true
-libc = "glibc"
-mpi = "openmpi"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "7fe80e459651ae5622aa8b81e933faab8c80f86377ff06dc6657434f380f27a7"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.powerpc64le-linux-gnu-cxx03-mpi+openmpi.tar.gz"
-[[CryptoMiniSat]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "ada6c84d0deb08effe73e30d11b1e0339fb32c3a"
-lazy = true
-libc = "glibc"
-mpi = "mpich"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "ae8a5b365a08e01f2756e0c8832c2c76472cb1d548eccae3f245dcfe4ce7369e"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.powerpc64le-linux-gnu-cxx11-mpi+mpich.tar.gz"
-[[CryptoMiniSat]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "8bfe56dc98c675e5a7e6b55ee92fceec6432c8ad"
-lazy = true
-libc = "glibc"
-mpi = "mpitrampoline"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "9a75d7b27445612aefd2394304a0bde265f0e91b0a545925fa81fe91c74b800f"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.powerpc64le-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
-[[CryptoMiniSat]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "dfa8161c664337ca680773e0c31ae7a73f99d18d"
-lazy = true
-libc = "glibc"
-mpi = "openmpi"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "2b183d4498260bff5116a44aaf96d864dacee85e3b22a38901dd9f93a524f23f"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.powerpc64le-linux-gnu-cxx11-mpi+openmpi.tar.gz"
-[[CryptoMiniSat]]
-arch = "x86_64"
-git-tree-sha1 = "242df5958343b365727b9e6fb368c5b3b8c0f6de"
-lazy = true
-mpi = "mpich"
-os = "macos"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "28900ceb31ab50469ad1f09162ac5def6ac24b70d1d7a56d1a2f5885f0fcba14"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.x86_64-apple-darwin-mpi+mpich.tar.gz"
-[[CryptoMiniSat]]
-arch = "x86_64"
-git-tree-sha1 = "037863414cd6c7a1537155a18d0862036ce1e6e9"
-lazy = true
-mpi = "mpitrampoline"
-os = "macos"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "9c3ce124843368ab71411b6f968b1ba80ac1d67aeb2ffbd0d370fded7ff887ea"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
-[[CryptoMiniSat]]
-arch = "x86_64"
-git-tree-sha1 = "73dffd49290e10646c64d797d437741fd4fefb42"
-lazy = true
-mpi = "openmpi"
-os = "macos"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "266bd8c96654391b7a1aebde7ff10d2f298d7a487ea9baecc11e40604009e331"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.x86_64-apple-darwin-mpi+openmpi.tar.gz"
-[[CryptoMiniSat]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "8b925bb4c28730304175dcce84d8395156bcd4f7"
-lazy = true
-libc = "glibc"
-mpi = "mpich"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "9b6fe8a06b29aea91657c9f18f8838b74627b43bc5055c8616985e99bf5e0df5"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.x86_64-linux-gnu-cxx03-mpi+mpich.tar.gz"
-[[CryptoMiniSat]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "0ec94f945b96602f1cb6a80c0d0269bde75dcce4"
-lazy = true
-libc = "glibc"
-mpi = "mpitrampoline"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "5a3382308076cdb0b8cc295066571cbe9ea0e749d600e62722332b18505c7838"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.x86_64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
-[[CryptoMiniSat]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "fb3a36684cfc44ebcf1eec7f4326376541ca1d2d"
-lazy = true
-libc = "glibc"
-mpi = "openmpi"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "93a59a0332ff3c8339b1f9843e5633f9295e509df355ffb24e3c912f676bb959"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.x86_64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
-[[CryptoMiniSat]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "867b849384590f1de1c72507721a27524a568f79"
-lazy = true
-libc = "glibc"
-mpi = "mpich"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "49833aafbb6db58ac12768ead25a111309cc8cfd821bcaf448567613e265335f"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
-[[CryptoMiniSat]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "ee5e0eddde64f150479f861363fb687585a7cfbf"
-lazy = true
-libc = "glibc"
-mpi = "mpitrampoline"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "f708019328a8ea9f84c5e15b23dd52eb3fb5a5a9bf795fed5a0f346fd14624ac"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.x86_64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
-[[CryptoMiniSat]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "3604bc3989a6f0cb75e4bc950b9d45df237f2cde"
-lazy = true
-libc = "glibc"
-mpi = "openmpi"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "edf455f9b0222e3144f39ffaeb5c2fa775e3e994c38b3323855292947daf9e11"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.x86_64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
-[[CryptoMiniSat]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "c9b62d9a5f0d6139f8b53272dce07c3b4ac9b445"
-lazy = true
-libc = "musl"
-mpi = "mpich"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "5580eddd5765f35cce2271f2e4996d00dcb0f54b337336ad1fd78b877d306a75"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.x86_64-linux-musl-cxx03-mpi+mpich.tar.gz"
-[[CryptoMiniSat]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "068fcbe705bf4000bf321100a62fce4b092c5d00"
-lazy = true
-libc = "musl"
-mpi = "openmpi"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "dea23888a2f3bb0858bf7f2f2dc8d06c0bb8db1ca9d943f613ec027c8fc1d0e8"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.x86_64-linux-musl-cxx03-mpi+openmpi.tar.gz"
-[[CryptoMiniSat]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "08136fa1eb1a7eb49263eb67af81f4e4e9be1930"
-lazy = true
-libc = "musl"
-mpi = "mpich"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "e23490a9417fa7c8a07d5854fc7908cc81668e72a46006fa20ac59c1f7018335"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.x86_64-linux-musl-cxx11-mpi+mpich.tar.gz"
-[[CryptoMiniSat]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "5fdabb830e893d035115ef3f2e6bfab4fa3450e2"
-lazy = true
-libc = "musl"
-mpi = "openmpi"
-os = "linux"
-
-    [[CryptoMiniSat.download]]
-    sha256 = "cc02ae929d615af3a79fea0f6563d9b91485273e39d2b0f800b2e54518bf27fb"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.x86_64-linux-musl-cxx11-mpi+openmpi.tar.gz"
-[[CryptoMiniSat]]
-arch = "x86_64"
-git-tree-sha1 = "c0e6bfd52e6891602a4e94e479a25b3e6e622e64"
+arch = "aarch64"
+git-tree-sha1 = "dfc54b92ba7a2eef8f72c93c2852e7b27eaa7c69"
 lazy = true
 mpi = "mpich"
 os = "freebsd"
 
     [[CryptoMiniSat.download]]
-    sha256 = "f477af808f4a1534dd64563528323340df029ea41c8fdb4cf6662fd849cd143c"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
+    sha256 = "4e91f3fa4a5d53de79ad18fe2e1cdccad015401de8c7f33e6268ff61d97908a1"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.aarch64-unknown-freebsd-mpi+mpich.tar.gz"
 [[CryptoMiniSat]]
-arch = "x86_64"
-git-tree-sha1 = "ecaeb6e314622a6a57729902c4292d6b69651f8b"
+arch = "aarch64"
+git-tree-sha1 = "5a72795f86bae203be08960c89abb9736598ab49"
 lazy = true
 mpi = "openmpi"
 os = "freebsd"
 
     [[CryptoMiniSat.download]]
-    sha256 = "9d52348d40a24d14e2dd7b9b8be7e0727a8c770aad635199a28883eaf52ce2bb"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
+    sha256 = "5d7966810142fb96908a7c267a48c9160463de99fe4c5dbf978d270b714ca81d"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.aarch64-unknown-freebsd-mpi+openmpi.tar.gz"
+[[CryptoMiniSat]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f1d00345d6c438a00a99ea424d52a594c533e602"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "a1d2252eb587cbd954533d4c89ec08c68af5c6759916ba08869b763454cf7647"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.armv6l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
+[[CryptoMiniSat]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "785d2f70506679eb0645797cf667f3b92efb1b9b"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "1385481fdc5fa6252e097c20cac5ac757c78153fc42b8f303d1a337e1e1e7c0a"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.armv6l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
+[[CryptoMiniSat]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1a7e7439dd0e6be32a836c612e968974f610a8c9"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "943e23eb11391600298d6d0162eef6e5b4d7394231b421b1db27a5d3695db990"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.armv6l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
+[[CryptoMiniSat]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3a4d0c57304b99771b81b961759b5281aee4d0ac"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "733e457856a4bbd57545ce25af6d6b3789ed9e60482b7d82c1e020bf0701790b"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.armv6l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
+[[CryptoMiniSat]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "93ff529dd835c082e83e6e14e8fb79acba5ce207"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "ad379f9edb26deaadee5ab1dcf68522d0f50910055e430f5c0442dda2c53960e"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.armv6l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
+[[CryptoMiniSat]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f1d59640b32245ab7bd5e8e10f83de03544cc9b0"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "3f927132ddae5a252a8de39d8dfddf6d7e4a0f244c4e484fa8fa398d7c56f5a5"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.armv6l-linux-musleabihf-cxx03-mpi+openmpi.tar.gz"
+[[CryptoMiniSat]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c5edaca83b46761b55ad738ac5a1a977f4988ec3"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "00ea2627f63399fd7903d84fde490936dddf1514544cd517d1211d466255ce2a"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.armv6l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
+[[CryptoMiniSat]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1509504e73e47a17e72d14619c289c779d857bde"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "c783ebab5ff4492469f4b396b4e8ff1253ed124d73ccbb22d38c6b41e685f85a"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.armv6l-linux-musleabihf-cxx11-mpi+openmpi.tar.gz"
+[[CryptoMiniSat]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "36ea83d29e263f88cc64092617630e16931ab019"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "24c109b233a8a6a435d1ecc96af9ec4b529d7806293e5e14400ada86e14c506d"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.armv7l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
+[[CryptoMiniSat]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "aa09c59e11a6bd81f7011da97bb0d4ed76fcbde9"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "74aebeeec909ee91cc63e6758ece0a5e0e6ce2af07b4443a3ed2302f5501ae8e"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.armv7l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
+[[CryptoMiniSat]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2ead97d439185a6f831857de72bf42c23792c359"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "b4e22bae2a91e7320dd819adbf31a99c54d4b9e8f47e9be695a99f20f55e97ae"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.armv7l-linux-gnueabihf-cxx03-mpi+openmpi.tar.gz"
+[[CryptoMiniSat]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e13e8b5c1e3c296f25defc3d3af0ead9380dc883"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "9b12a7a70fc6b37395ac0365d16fd3092a7be2a483795757e38761c90d34a70e"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.armv7l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
+[[CryptoMiniSat]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "49d67b6f1b9e7506082bfb86adf4a65c77054da0"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "4c810ee92bb80e8fb59b65d20bab6cc7b93186f587ed09be90579ab4ea908122"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.armv7l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
+[[CryptoMiniSat]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b54a4a781e24972bb6a00b47daa6d2cbba85da1a"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "ee0189b65d19dd8bb89a520f297ed2fda22c05a47904969d1ba3b6efbc4fdaa5"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.armv7l-linux-gnueabihf-cxx11-mpi+openmpi.tar.gz"
+[[CryptoMiniSat]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "598be3f61cc83b47a81fe823550f17b1ddb03aee"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "d0d462515422088ae39385f068b4081acc48705f3970b33e583d30bd10a270ed"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.armv7l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
+[[CryptoMiniSat]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "99c7dbd9184f2ff27d15c65e1420a0fb59727bac"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "85fce887dc12ceb88887c903a73c42ca7d5b57b7f917aa4ddf5893e503444c17"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.armv7l-linux-musleabihf-cxx03-mpi+openmpi.tar.gz"
+[[CryptoMiniSat]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a3b0ca162fa520ca6ddb89d0b6032e37d3987808"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "67ab92ec037237f3272d907ff2915d2858afddcab21b04f2f7dd8dbb3228f833"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.armv7l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
+[[CryptoMiniSat]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9ea914ae27ffa9c8f5673f83fb77c226ff803b49"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "a1591c7e99806673b7d2329307861a786f8b2523a366bbb40fdd61d83f71b820"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.armv7l-linux-musleabihf-cxx11-mpi+openmpi.tar.gz"
+[[CryptoMiniSat]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "54a7d0ae77ed2223168b600d66d33f3974a1d7cc"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "5edfe7f86d8744e393286847ff5c96e4ad5596f2699dd65953af580ccce06a05"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.i686-linux-gnu-cxx03-mpi+mpich.tar.gz"
+[[CryptoMiniSat]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9cd0741f56f42243f66e91b7c3c90404dd28cc98"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "42602a409c47a14762f621790514026fe1bc098be379250927219c2fa5583381"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.i686-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+[[CryptoMiniSat]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3a7c41cb20064665d4c9d52b02a6448ccbdce9d5"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "008b4dc5a209bd121edba472603a8591addbb534469c8b3ef5f7fd0e33d9fc78"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.i686-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+[[CryptoMiniSat]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2d660e459d02b87d1296f660d628af38fee469df"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "22ccf234d3d15e9bc4d118adb5c67b9450796542e98b15b4aa57a769d9195e1b"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.i686-linux-gnu-cxx11-mpi+mpich.tar.gz"
+[[CryptoMiniSat]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7ea43a0fd6127c2eedeecb06310f84501e8ea089"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "fa8b291b02d5626af178dd1d9ff2446f78668402957615c19e8cc8651b2c224d"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.i686-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+[[CryptoMiniSat]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9b3c2fa9872364b0748129b72958dd2ec5d971e9"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "70d073ab201499e3d714e59b30343d25ed1f19e8916222efa182501f78edc9f6"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.i686-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+[[CryptoMiniSat]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ba58e3a7b045bef40473478f857ce872da0e90ae"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "79404740eec9c6b666a68ae1b4174d08b7d58d00e497ed9d2f6f4af41f7fc1e4"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.i686-linux-musl-cxx03-mpi+mpich.tar.gz"
+[[CryptoMiniSat]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "94b4f7a6d95bef6b6bda9b2cd3714dfb3b9b35d6"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "f08290518e644b5ab7603299a1f0403391a157b289d880ef456b8a96503490a2"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.i686-linux-musl-cxx03-mpi+openmpi.tar.gz"
+[[CryptoMiniSat]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3f138db4ff7ab547aabbe20bd3aebb69a155c35b"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "3084104c998d345ea5647744f831d847e34ca8686f98cafaa2fdf3f1d6d6cad9"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.i686-linux-musl-cxx11-mpi+mpich.tar.gz"
+[[CryptoMiniSat]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ee131e77094de2e8af08b3bc32a85fba85876e90"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "ff393ed4f259c140ddfec597efdcf92d496b5c315af4da5a98910fc225ea3f6b"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.i686-linux-musl-cxx11-mpi+openmpi.tar.gz"
+[[CryptoMiniSat]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "48c61e4241410eb200fbe2dede117dd031b20e74"
+lazy = true
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "f3e3e3c7cffb83ec8088dc3230120f062c6ea90f5e23a4377ea525ccaf5db31f"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.i686-w64-mingw32-cxx03-mpi+microsoftmpi.tar.gz"
+[[CryptoMiniSat]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "39e861b389860f2f2c449dc0a79482bc6b49eb38"
+lazy = true
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "46a0973eda2e43368a8254e2d752a9f6ebd0027fb799145d3a3e13138d90d706"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.i686-w64-mingw32-cxx11-mpi+microsoftmpi.tar.gz"
+[[CryptoMiniSat]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "314411190b5ab2172c46b29ace8f83501d83da2c"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "3dc02ba941f235b75ca599aa4e8b7db3d45948470073116fe4b9c241f0516692"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.powerpc64le-linux-gnu-cxx03-mpi+mpich.tar.gz"
+[[CryptoMiniSat]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0f0400b72933136cb46d7c2115d3d0b51d587714"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "6edfb4fd45883711914f916a6f831d86a788bca3de9c7e7729b37d77f877ab36"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.powerpc64le-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+[[CryptoMiniSat]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fc58cefe38055244ae26306d0d43a4632ca85195"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "b1fc859e4cee80566f77fc0dca185495c88964f7a7d522e4202166992b3eeaa1"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.powerpc64le-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+[[CryptoMiniSat]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "413ef60f1af72dd78b3ed9efdc90d586bcc471fd"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "d3f70fa00fe61f0ac977fc10b53170ec4ea0ef8570831b7c842248b095e8cfac"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.powerpc64le-linux-gnu-cxx11-mpi+mpich.tar.gz"
+[[CryptoMiniSat]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ba625107e0446ef13f651ebced1a56d1d7f196e4"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "1911374e3d9a2faf6fa832e690a27bf0bf34081ee3a57279c699b9615184368d"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.powerpc64le-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+[[CryptoMiniSat]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b6a0f3411d5bee54aa2c27af5b61337e24f51784"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "f342671ffc6905acaaa03775945e117dc97786755e7d2d9d67a932547fec9ec4"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.powerpc64le-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+[[CryptoMiniSat]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "614f4bd524202aafcdb464a8f31bcbe7ab0d6c42"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "d4e52720be44ea1a427ca93674c1100cf00f42d867547c284145ce7bb74e8081"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.riscv64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+[[CryptoMiniSat]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "058c9d630dc96e217b623caaaefc8713593eed8d"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "de5ec64932c04aca9aeb9cf87619243816a7bb8f121648a0dbfe9186dbca9759"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.riscv64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+[[CryptoMiniSat]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "265ada0a279b7f498b2dbd31381d564656c85edc"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "48f8ac9101f07ad707ecef94bad3e013c0193a5662343037fbb1f5bc43075aaf"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.riscv64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+[[CryptoMiniSat]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4deb064b56ca4e3a3218fa825993a4f48bbcb0c8"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "addfec1d1fa2912a4f68655331ac461649e466ff8324c25c547b3bb815d11f9c"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.riscv64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+[[CryptoMiniSat]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "404ca5f53c7a66cedbe259849daa88fd31d2fc3c"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "c457849ae9da336421e8c04e7efbdd9b1863da55dccaf0937362eff110760a07"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.riscv64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+[[CryptoMiniSat]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "79bff634abfd89f464b1a805c78e79976f8a02b7"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "f1089989597dec1e5a1e68a8b7b83d61cdf9678a24776caafa08acdcfcaa8e4a"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.riscv64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+[[CryptoMiniSat]]
+arch = "x86_64"
+git-tree-sha1 = "8798adc06f4d494d1942ecfdf61b8a26b6152f18"
+lazy = true
+mpi = "mpich"
+os = "macos"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "e8ca5210713b758808dacea6bfab2a240c029074fc36335b3a40589bd90b45ad"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.x86_64-apple-darwin-mpi+mpich.tar.gz"
+[[CryptoMiniSat]]
+arch = "x86_64"
+git-tree-sha1 = "038ed48183d0a9ef6745300b7eac8ca4035adfba"
+lazy = true
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "2e457922e89f5bd1cef28c55e281e41a35dbd63a4c816bea9f6614158e14f1dc"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
+[[CryptoMiniSat]]
+arch = "x86_64"
+git-tree-sha1 = "06cfbd734e39a2077de48d35eae11c6873949adc"
+lazy = true
+mpi = "openmpi"
+os = "macos"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "cbc1d5e449b72a90c6806c966e6db63d5e3765c3c286426b719d43a53f5a34c6"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.x86_64-apple-darwin-mpi+openmpi.tar.gz"
 [[CryptoMiniSat]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a5fa342de5dfd049280c80732294a5a713b0d7fd"
+git-tree-sha1 = "2294e6f524c2b19f12f4a932c6184778e113fdd3"
 lazy = true
-mpi = "microsoftmpi"
-os = "windows"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
 
     [[CryptoMiniSat.download]]
-    sha256 = "5282b0bec477f20c61565f8183b2494a48ad36cfed868a6e96a5a0ee300621b2"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.x86_64-w64-mingw32-cxx03-mpi+microsoftmpi.tar.gz"
+    sha256 = "bb540e24a4f6bb1ee38719509254bb14ec1161a167bfdb8a25b9309a298039af"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.x86_64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+[[CryptoMiniSat]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "af2700afc52bffae08472ce3153ff64282deed42"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "82bad01dab32787989b4e915d4314f055898b9ee4e0594acc0d46f9ff13fde5a"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.x86_64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+[[CryptoMiniSat]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "af5eefb36ee738e73f1f3e596b6c8e035ddb4f00"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "03702c1a4149d26c4517b836674734a57aac7bc75f5c440cd33573deda574d89"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.x86_64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
 [[CryptoMiniSat]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0a6f67c1d6e076835d9193749c7980a2ecd74691"
+git-tree-sha1 = "8d85fb03e05b39b6858ead1b8c8b0af5f056167c"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "26820db7c620c2951a51c54f0a2e52965386c4cacf1731b0e7d3a442b8ff3be0"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+[[CryptoMiniSat]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6c73f7e16d0fc2d30dcaf28e038583bf93749402"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "57920b186fc6c63954631a5658f1ab7be82adfb68f3444470cdfa93302f43e2d"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.x86_64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+[[CryptoMiniSat]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "84cae584330e4150c5a581fdd6d6a5c4de94ae58"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "cc1e04c207113d881a1fec488019af0f359de41ec80ea6fbfe80c039926a7c26"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.x86_64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+[[CryptoMiniSat]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1ba1093b0a688af5fad6b2c20e248c1e38437e1a"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "fadf656d7b0921d2ddc05d421d17b2c0c779092e987c5f7ab0f505d7b1cc9260"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.x86_64-linux-musl-cxx03-mpi+mpich.tar.gz"
+[[CryptoMiniSat]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d3058f6de79e7ae69e3647da96377d90a1c4726d"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "d36625310e70abca01ea2598e2fe014bfd1e0fdf7a61a95d0b015a6f43ae7e58"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.x86_64-linux-musl-cxx03-mpi+openmpi.tar.gz"
+[[CryptoMiniSat]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d1206b9b4868aec1f2801397b42bb43cec40b43f"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "2046791a0a1c436cbdf01e40a9e465dc359a95bde8f0e26759bf6cd868495cab"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.x86_64-linux-musl-cxx11-mpi+mpich.tar.gz"
+[[CryptoMiniSat]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2c153d2b43b86ff6b3d8517e33c3333713195727"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "ac185e00d9a261c3ba339c251a1f8d75a1c40fca2b096333f63b32fb2467c1a9"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.x86_64-linux-musl-cxx11-mpi+openmpi.tar.gz"
+[[CryptoMiniSat]]
+arch = "x86_64"
+git-tree-sha1 = "a00202d1d64362664baa72b753ffc7ad3e8e1437"
+lazy = true
+mpi = "mpich"
+os = "freebsd"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "971c17007f3143fd6d270f823e383e8c6b4e5dc5a2c51f0fee046992d86ca01f"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
+[[CryptoMiniSat]]
+arch = "x86_64"
+git-tree-sha1 = "75af94ae921105faa85590ca52c7b899976556eb"
+lazy = true
+mpi = "openmpi"
+os = "freebsd"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "1fbc52d5a1b56842704923f5711aba345acce3f11b75731e664826b32b9bf5f9"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
+[[CryptoMiniSat]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e24b391f0c0774beac913188df59a2caa88ebbbc"
 lazy = true
 mpi = "microsoftmpi"
 os = "windows"
 
     [[CryptoMiniSat.download]]
-    sha256 = "a0dc96b3f5d018e0c09ef8125947e9683b9e8a4a1c49532557a0c99f3a4fe517"
-    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v5.11.4+0/CryptoMiniSat.v5.11.4.x86_64-w64-mingw32-cxx11-mpi+microsoftmpi.tar.gz"
+    sha256 = "9f31bb4305603d73cda59d8d0a4da3fd2fd01d9b1eb05ddf5b6636e043ccc1f7"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.x86_64-w64-mingw32-cxx03-mpi+microsoftmpi.tar.gz"
+[[CryptoMiniSat]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "322b29549eb5bc11546d368e18a0d3501c187956"
+lazy = true
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[CryptoMiniSat.download]]
+    sha256 = "10eea169626e83299341928c6d624b24aec4627ac93696a218a92e0f70342d64"
+    url = "https://github.com/JuliaBinaryWrappers/CryptoMiniSat_jll.jl/releases/download/CryptoMiniSat-v6.0.0+0/CryptoMiniSat.v6.0.0.x86_64-w64-mingw32-cxx11-mpi+microsoftmpi.tar.gz"
